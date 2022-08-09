@@ -5,4 +5,4 @@ Had Alot Of Help From This Series https://www.youtube.com/watch?v=ibSJAvQ-3vA&li
 
 ![Demo](https://i.imgur.com/HYtbXcE.gif)
 
-Controlls  P = Pause, R = Restart, G = Grid.
+Controlls  P = Pause, R = Restart, G = Grid, Space DROP.
